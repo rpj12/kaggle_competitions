@@ -1,1 +1,1 @@
-# kaggle_competitions
+# Mechanisms of Action (MoA) Prediction Competition
